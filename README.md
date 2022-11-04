@@ -10,8 +10,8 @@ Submit as a link to a public github repository. Assuming peer review worked for 
 
 ## Group Members & APIs
 - Amanda Markee – Animal Crossing New Horizons (ACNH) Bugs https://acnhapi.com/
-- Julia Bruner
-- Kaylin Kleckner
+- Julia Bruner - Harry Potter Spells
+- Kaylin Kleckner - Xeno canto - Global wildlife sounds (https://xeno-canto.org/explore/api)
 
 </br>
 
